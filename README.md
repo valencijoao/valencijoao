@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi%2C%20I'm%20Jo%C3%A3o%20Valenci%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Management%20with%20a%20focus%20on%20Data%20Science%20and%20Machine%20Learning&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi%2C%20I'm%20Jo%C3%A3o%20Valenci%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ## About Me
-
+- 💻 Background in **IT Management** with a focus on **Data Science and Machine Learning**
 - 📊 Experience with **data analysis, predictive modeling, and supervised learning**
 - 🔬 Interested in **Applied AI Research and Data-Driven Solutions**
 
